@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#655252</color>
+    <color name="colorPrimaryDark">#655252</color>
+    <color name="colorAccent">#ece0e0</color>
+    <!--costum colors -->
+    <color name="numbersCatagory">#9f8686</color>
+    <color name="familyCatagory">#a59696</color>
+    <color name="colorsCatagory">#baa2a2</color>
+    <color name="phrasesCatagory">#c79f9f</color>
+</resources>
